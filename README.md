@@ -1,1 +1,0 @@
-# Cross-modal-retrieval-system
